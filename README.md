@@ -41,8 +41,8 @@ Click on **Create security group**.
 
 ### Step 4: Configure Basic Details
 Fill in the following:
-- **Security group name:** `devops-sg`
-- **Description:** `Security group for Nautilus App Servers`
+- **Security group name:**
+- **Description:** 
 - **VPC:** Default VPC
 
 ![Basic Details](screenshots/04-basic-details.png)
