@@ -8,7 +8,6 @@ It also controls who can access your resources and on which ports by defining in
 - Create a security group in the **default VPC**
 - Allow inbound **HTTP (port 80)** traffic
 - Allow inbound **SSH (port 22)** traffic
-- Use the AWS Console (GUI), not CLI
 
 
 
